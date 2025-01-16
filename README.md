@@ -22,7 +22,7 @@ This project is designed to scrape information about organizations in Pakistan t
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/autism-org-scraping.git
+   git clone https://github.com/atifusmanhashim/autismchildorganization_scraping.git
    cd autism-org-scraping
    ```
 

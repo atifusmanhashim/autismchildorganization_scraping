@@ -9,6 +9,7 @@ selenium = "*"
 pandas = "*"
 scrapy-user-agents = "*"
 requests = "*"
+django = "*"
 
 [dev-packages]
 
